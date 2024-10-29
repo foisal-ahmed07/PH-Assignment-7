@@ -1,0 +1,62 @@
+[
+  {
+    "playerId": 1,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "image": "https://i.ibb.co.com/sbfJX5X/Shakib.webp",
+    "role": "All-rounder",
+    "battingType": "Left-handed",
+    "bowlingType": "Slow left-arm orthodox",
+    "biddingPrice": 1800000
+  },
+  {
+    "playerId": 2,
+    "name": "Tamim Iqbal",
+    "country": "Bangladesh",
+    "image": "https://i.ibb.co.com/t3KX2fH/tamim.jpg",
+    "role": "Batsman",
+    "battingType": "Left-handed",
+    "bowlingType": "N/A",
+    "biddingPrice": 1600000
+  },
+  {
+    "playerId": 3,
+    "name": "Mushfiqur Rahim",
+    "country": "Bangladesh",
+    "image": "https://i.ibb.co.com/b57TPT8/musfik.jpg",
+    "role": "Wicketkeeper-Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "Left-arm fast-medium",
+    "biddingPrice": 1500000
+  },
+  {
+    "playerId": 4,
+    "name": "Mustafizur Rahman",
+    "country": "Bangladesh",
+    "image": "https://i.ibb.co.com/xjvKYXN/mustafiz.jpg",
+    "role": "Bowler",
+    "battingType": "Right-handed",
+    "bowlingType": "N/A",
+    "biddingPrice": 1400000
+  },
+  {
+    "playerId": 5,
+    "name": "Litton Das",
+    "country": "Bangladesh",
+    "image": "https://i.ibb.co.com/cJfK1CZ/litone.jpg",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "N/A",
+    "biddingPrice": 1300000
+  },
+  {
+    "playerId": 6,
+    "name": "Mahmudullah",
+    "country": "Bangladesh",
+    "image": "https://i.ibb.co.com/hBR9mWc/mahamadulla.jpg",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm off-break",
+    "biddingPrice": 1200000
+  }
+]
